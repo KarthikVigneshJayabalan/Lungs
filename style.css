@@ -1,0 +1,15 @@
+head {
+  color: rgb(17, 92, 92);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+body {
+  color: rgb(51, 140, 143);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.titlepage {
+  color: brown;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;  
+}
+.trsd {
+ color: rgb(141, 35, 113);
+}
